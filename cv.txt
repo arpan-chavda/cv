@@ -123,9 +123,9 @@ Other Links
  Gitorious: https://gitorious.org/~arpan-chavda
 
  Up-to-date copy of this CV is available at,
-  http://gitorious.org/mycv-arpan/mycv-arpan/raw/cv.txt
+  https://raw.github.com/arpan-chavda/cv/master/cv.txt
 
  Email me for any additional details and other formats are on this repository.
 
  Arpan Chavda
-Last Updated: Sat, 31 Aug 2013 13:19:07 +0530
+Last Updated: Mon, 02 Sep 2013 13:41:32 +0530
