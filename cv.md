@@ -1,14 +1,12 @@
 Arpan Danabhai Chavda
 =====================
+
+Contact
+-------
 ```
- Email
-  arpanchavdaeng@gmail.com
-
- Birth date
-  26/06/92
-
- Cell
-  +918866315830
+ Email: arpanchavdaeng@gmail.com
+        
+ Mobile: +91 8866315830
 ```
 Career Objective
 ----------------
@@ -21,17 +19,17 @@ Career Objective
 Education
 ---------
 ```
- Degree: B.Tech.(Computer Science & Engineering)
+ Bachelor of Technology(Computer Science & Engineering)
  PPI: 7.44/10
- College: Nirma University, Ahmadabad.
+ College: Nirma University, Ahmedabad.
  Year: July, 2013
 
- Degree: H.S.C.
+ Higher Secondary School Certificate:
  Per.:83.6%
  School: Alpha Highschool, Junagadh.
  Year: April, 2009
 
- Degree: S.S.C.
+ Secondary School Certificate:
  Per.:90.8%
  School: Shri N.P.Bhalodiya Highschool, Junagadh.
  Year: April, 2007
@@ -46,7 +44,7 @@ Skills
     b. Windows: Regular user. Familiar up to middle level.
 
  2. VCSs:
-    Git
+    Git, GNU Bazaar
 
  3. Programming:
     Experience are in:
@@ -59,8 +57,9 @@ Skills
     a. Python
 
  4. Misc:
-    a. Localization/Internationalization.
-    b. Office software: OpenOffice.org/Libreoffice.
+    a. Web Technologies: HTML, AJAX, Bootstrap , Google API, JQuery Mobile 
+    c. Localization/Internationalization.
+    d. Office software: OpenOffice.org/Libreoffice.
 ```
 Notable Projects
 ----------------
@@ -74,20 +73,20 @@ Notable Projects
   DMLinux is a free and open source GNU/Linux Operating system.It is built for
   developers,coders,programmers and software engineers.
 
- ajax-watcher: <https://github.com/arpan-chavda/ajax-watcher>
+ Ajax-watcher: <https://github.com/arpan-chavda/ajax-watcher>
   ajax-watcher is a simple web application made with ajax,javascript,php,google api 
   and xml parsing to get live data of weather,stock market,news feeds,time etc.
 
- aviation management system:
+ Aviation management system:
   This project was a part of academic curriculum.It is developed in PHP and MySQL.
   It manages flights booking and varoius things online for aviation comapany.
 ```
 FOSS Projects
 -------------
 ```
- gujarati-keyboards: Customized Keyboards for Gujarati language with IBus
-
  Localization Projects: XFCE Components, Wikipedia.
+
+ Gujarati Keyboards: Customized Keyboards for Gujarati language with IBus
 
  oguj-dict-pkg: Gujarati Dictionary for Linux; Upstream author, maintainer.
 
@@ -95,10 +94,9 @@ FOSS Projects
  
  kindle-guj-dict: Gujarati Dictionary for Kindle devices; Upstream author, maintainer.
 
- autoon-util: application which boots up PC at given time from shut down.
-
  Other projects: Keryx Project Generator(Addon for Keryx software)
-                 python-fetcher (custom html parser using beautifulsoup)
+                 autoon-util(application which boots up PC at given time from shut down)
+
 ```
 Seminars & Presentations
 ------------------------
@@ -129,7 +127,7 @@ Other Links
 ```
  Blog: http://arpan-chavda.github.io
  Github: https://github.com/arpan-chavda
- Gitorious: https://gitorious.org/~arpan-chavda
+ Launchpad: https://launchpad.net/~arpanchavdaeng
 
  Up-to-date copy of this CV is available at,
   https://raw.github.com/arpan-chavda/cv/master/cv.txt
@@ -137,4 +135,4 @@ Other Links
  Email me for any additional details and other formats are on this repository.
  Arpan Chavda
 ```
-Last Updated: Mon, 02 Sep 2013 13:41:32 +0530
+Last Updated: Mon, 02 Sep 2013 16:59:59 +0530
